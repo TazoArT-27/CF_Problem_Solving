@@ -1,2 +1,3 @@
-    int ans = value/2 ;
-        cout<<ans<<endl; 
+else if(next_count < prev_count){
+        //     min_capacity = prev_count ;
+        // }
