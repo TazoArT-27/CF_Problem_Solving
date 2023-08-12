@@ -1,3 +1,4 @@
-else if(next_count < prev_count){
-        //     min_capacity = prev_count ;
-        // }
+if(r == t){
+        cout << "YES" << endl;
+    }
+    else cout << "NO" << endl;
