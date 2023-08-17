@@ -1,4 +1,3 @@
-if(r == t){
-        cout << "YES" << endl;
-    }
-    else cout << "NO" << endl;
+if(m == 1){
+        //     flag = false;
+        // }
